@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sidh-r
-- 👀 I’m interested in Python, web.
-- 🌱 I’m currently learning how to create desktop apps with Python.
+- 👀 I’m interested in Python, web dev.
 - 💞️ I’m looking to collaborate on anything related to Python or webdev.
 
 
